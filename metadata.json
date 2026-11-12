@@ -1,0 +1,6 @@
+{
+  "name": "PaySplit AI - Smart Global Bills & Expense Hub",
+  "description": "PayPal AI Hackathon: Smart bill tracking, AI receipt OCR, multi-currency travel balance, PayPal Orders, Invoices, Payouts, Subscriptions, and multi-method secure authentication.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
